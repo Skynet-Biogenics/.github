@@ -1,6 +1,6 @@
 # 🧬 Skynet Biogenics
 
-**Where AI 🤖 Meets Biotech 🧪 for a Post-Human Future.**  
+**Where AI Meets Biotech for a Post-Human Future. 🤖🧪**  
 Inspired by the legendary AI of *Skynet* from Terminator and the biotech ambition of *UmbraTech Biogenics* from Resident Evil. ☣️
 
 ## 🚀 Overview
