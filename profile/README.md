@@ -19,4 +19,6 @@ Unlike traditional zombie outbreaks, Skynet Biogenics wouldn’t just create min
 
 
 
-#### ☢️ *Disclaimer: This is a fictional project for educational and entertainment purposes. No actual bioengineering or AI-driven pandemics are being developed. All the ongoing non-lethal projects are in private repositories* ☢️
+#### ☢️ *Disclaimer: This is a fictional project for educational and entertainment purposes. No actual bioengineering or AI-driven pandemics are being developed.* ☢️
+
+##*All the ongoing non-lethal projects are in private repositories* ⚠️
